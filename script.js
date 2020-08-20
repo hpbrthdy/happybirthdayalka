@@ -12,17 +12,17 @@ const slides = [
 
 
 {
-  title: "Machu Picchu",
-  subtitle: "Peru",
-  description: "Adventure is never far away",
+  title: "Happy Birthday",
+    subtitle: "ALKA",
+  description: " Happy birthday to one of the few people whose birthday I can remember without a Facebook reminder.",
   image:
-  "as.jpg" },
+  "as.jpg"},
 
 
 {
-  title: "Mimisa Rocks",
-  subtitle: "Australia",
-  description: "A piece of heaven",
+  title: "Happy Birthday",
+    subtitle: "ALKA",
+  description: "Sending you best wishes for success, health, and good fortune today and in the year to come. Enjoy your special day. Happy Birthday!",
   image:
   "as2.jpg" },
 
