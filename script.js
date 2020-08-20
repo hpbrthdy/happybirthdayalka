@@ -8,7 +8,7 @@ const slides = [
     subtitle: "ALKA",
     description: "May You be Happy always",
     image:
-    "as1.jpg" },
+    "as1.JPG" },
 
 
 {
